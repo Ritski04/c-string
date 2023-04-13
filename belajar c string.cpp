@@ -5,10 +5,10 @@ int main(){
 //	char nama[]="ritski";
 //	char prodi[]="ilkom";
 //	cout<<nama<<endl;
-//	cout<<strlen(nama)<<endl;//strlen agar karakter null tidak dibaca
+//	cout<<strlen(nama)<<endl;       //strlen agar karakter null tidak dibaca
 //	
 //	cout<<prodi<<endl;
-//	cout<<sizeof(prodi)<<endl;//sizeof karakter null dibaca
+//	cout<<sizeof(prodi)<<endl;      //sizeof karakter null dibaca
 //	cout<<endl;
 //	for (int i=0;i<strlen(nama);i++){
 //		cout<<nama[i]<<" "<<(nama[i]=='\0'?"Null":"Not Null")<<endl;
@@ -41,22 +41,22 @@ int main(){
 	
 //	char fname[50] = "ritski";
 //	char lname[50]= " wira";
-//	char *fullname = strcat(fname, lname);//strcat untuk menyatukan char atau string
+//	char *fullname = strcat(fname, lname);        //strcat untuk menyatukan char atau string
 //	cout<<fullname;
 //
 //	char* endptr;
 //	char str1[] = "011ritski";
-//	long value1 = strtol(str1, &endptr, 2);//mengubag variabel str1 menhjadi long
+//	long value1 = strtol(str1, &endptr, 2);        //mengubag variabel str1 menhjadi long
 //	cout<<value1<<endl;
 //	cout<<endptr<<endl;//endptr untuk memisahkan angka dengan huruf
 //	
 //	char str2[] = "110ritski";
-//	unsigned long value2 = strtoul(str2, &endptr, 8);//mengubah str2 menjadi unsigned long
+//	unsigned long value2 = strtoul(str2, &endptr, 8);       //mengubah str2 menjadi unsigned long
 //	cout<<value2<<endl;
 //	cout<<endptr<<endl;
 //	
 //	char str3[] = "1ritski";
-//	double value3 = strtod(str3, &endptr);// mengubah str3 menjadi double
+//	double value3 = strtod(str3, &endptr);         // mengubah str3 menjadi double
 //	cout<<value3<<endl;
 //	cout<<endptr<<endl;
 	
