@@ -2,7 +2,7 @@
 #include <cstring>
 using namespace std;
 int main(){
-//	char nama[]="hamid";
+//	char nama[]="ritski";
 //	char prodi[]="ilkom";
 //	cout<<nama<<endl;
 //	cout<<strlen(nama)<<endl;//strlen agar karakter null tidak dibaca
@@ -39,8 +39,8 @@ int main(){
 //			
 //		}
 	
-//	char fname[50] = "imran";
-//	char lname[50]= " hamid";
+//	char fname[50] = "ritski";
+//	char lname[50]= " wira";
 //	char *fullname = strcat(fname, lname);//strcat untuk menyatukan char atau string
 //	cout<<fullname;
 //
