@@ -45,23 +45,23 @@ int main(){
 //	cout<<fullname;
 //
 //	char* endptr;
-//	char str1[] = "011hamid";
+//	char str1[] = "011ritski";
 //	long value1 = strtol(str1, &endptr, 2);//mengubag variabel str1 menhjadi long
 //	cout<<value1<<endl;
 //	cout<<endptr<<endl;//endptr untuk memisahkan angka dengan huruf
 //	
-//	char str2[] = "110hamid";
+//	char str2[] = "110ritski";
 //	unsigned long value2 = strtoul(str2, &endptr, 8);//mengubah str2 menjadi unsigned long
 //	cout<<value2<<endl;
 //	cout<<endptr<<endl;
 //	
-//	char str3[] = "1hamid";
+//	char str3[] = "1ritski";
 //	double value3 = strtod(str3, &endptr);// mengubah str3 menjadi double
 //	cout<<value3<<endl;
 //	cout<<endptr<<endl;
 	
-//	char data[2][100]={"2217imran",
-//					   "2257hamid"};
+//	char data[2][100]={"2217ritski",
+//					   "2257wira"};
 //	char* endptr;
 //	for(int i=0;i<2;i++){
 //		long value = strtod(data[i], &endptr);
